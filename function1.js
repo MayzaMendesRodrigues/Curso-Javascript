@@ -1,5 +1,6 @@
+// FUNCAO : DESCANSAR ARRUMAR LIMPAR  
 //Funcao sem retorno 
-function imprimirSoma(a, b){
+function imprimirSoma(a, b){ 
     console.log (a + b)
 }
 
